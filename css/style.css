@@ -1,0 +1,24 @@
+.title {
+	border-bottom: 1px solid;
+	margin: 15px 0 15px 0; 
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: arial;
+	margin: 4px;
+}
+
+a {
+	color: black;
+	font-size: arial;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: grey;
+}
+
+p {
+	font-family: arial;
+}
+
